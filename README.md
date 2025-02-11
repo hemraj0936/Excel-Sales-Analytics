@@ -43,5 +43,5 @@
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
 
-## PS: I couldn't upload my Financial Analytics Report Since Github allows upto 25mb of file. But Here is the link you can use to download and Understand the functionality.
+## PS: I couldn't upload my Financial Analytics Report as GitHub allows files up to 25MB. However, you can download it using the link below to explore its functionality.
 ## [Financial Analytics](https://docs.google.com/spreadsheets/d/1c3b_RudFM4ChTEeytn-i3SQMQiCT7gYz/edit?usp=sharing&ouid=102160944587242950974&rtpof=true&sd=true)
